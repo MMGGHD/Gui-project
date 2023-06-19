@@ -1,9 +1,5 @@
 package gui.project.practice;
 
-import java.awt.BorderLayout;
-import java.awt.Button;
-import java.awt.FlowLayout;
-import gui.project.ex01.MyFrame;
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JFrame;
